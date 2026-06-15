@@ -29,15 +29,19 @@
 ## 🏆 Featured Projects
 
 ### 🅿️ Smart Parking System
-> A full-stack web app for real-time parking slot management
+> A full-stack smart parking management system
 
-- 🔐 User authentication with hashed passwords
-- 🟢 Real-time slot availability dashboard
-- 📋 Booking system with vehicle tracking
-- 🛠️ Built with: Python, Flask, MySQL, JavaScript
+- 🔐 JWT Authentication
+- 🟢 Real-time slot availability
+- ⏰ Time slot booking with conflict detection
+- 💳 Razorpay payment integration
+- 👑 Full admin panel
+- ☁️ Cloud MySQL (Aiven) + Deployed on Render
+- 🛠️ Built with: Python Flask, MySQL, JavaScript
 
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theadityabhadauriya/smart-parking-system)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00B388?style=for-the-badge&logo=render&logoColor=white)](https://smart-parking-system-918m.onrender.com)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theadityabhadauriya/smart-parking-system)
+
 ---
 
 ## 📊 GitHub Stats
