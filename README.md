@@ -37,7 +37,7 @@
 - 🛠️ Built with: Python, Flask, MySQL, JavaScript
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theadityabhadauriya/smart-parking-system)
-
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00B388?style=for-the-badge&logo=render&logoColor=white)](https://smart-parking-system-918m.onrender.com)
 ---
 
 ## 📊 GitHub Stats
